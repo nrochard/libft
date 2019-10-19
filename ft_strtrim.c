@@ -6,13 +6,11 @@
 /*   By: nrochard <nrochard@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2019/10/08 16:46:36 by nrochard          #+#    #+#             */
-/*   Updated: 2019/10/19 15:49:29 by nrochard         ###   ########.fr       */
+/*   Updated: 2019/10/19 15:53:03 by nrochard         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
-#include <stdlib.h>
 #include "libft.h"
-#include <stdio.h>
 
 char		*fill_string(char const *s1, char const *set, char *r, int size)
 {
